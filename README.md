@@ -4,8 +4,9 @@
 horas vagas nesse ultimo mês.</p>
   
 <p>Preparei esse material, onde explico a instalação da aplicação
-BookStack e gostaria de compartilhar com você.
-O material está sob a licença GPLv3, o que significa que você têm total
+BookStack e gostaria de compartilhar com você.</p>
+  
+<p>O material está sob a licença GPLv3, o que significa que você têm total
 liberdade para copiar, compartilhar, reproduzir e até adaptá a sua
 necessidade. Na verdade ficarei muito feliz em saber que esse material
 esta sendo repostado/caminhando nesse mundão. Pois significa que o
@@ -16,5 +17,6 @@ forma de contribuir com a comunidade e facilitar o caminho de quem está
 começando nesse universo do software livre.
 Espero, de coração, que seja útil para você ou para alguém que conheça.
 Ah, caso queria propor, melhorias no material, ou correções ficarei
-feliz em recebê-las
-“O conhecimento, quando não humaniza, deprava.</p>
+feliz em recebê-las</p>
+  
+<p>“O conhecimento, quando não humaniza, deprava.</p>
