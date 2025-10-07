@@ -1,7 +1,9 @@
-Carta ao Leitor
-Quero dividir com você algo que vim construindo com carinho nas minhas
-horas vagas nesse ultimo mês.
-Preparei esse material, onde explico a instalação da aplicação
+<p>Carta ao Leitor</p>
+
+<p>Quero dividir com você algo que vim construindo com carinho nas minhas
+horas vagas nesse ultimo mês.</p>
+  
+<p>Preparei esse material, onde explico a instalação da aplicação
 BookStack e gostaria de compartilhar com você.
 O material está sob a licença GPLv3, o que significa que você têm total
 liberdade para copiar, compartilhar, reproduzir e até adaptá a sua
@@ -15,4 +17,4 @@ começando nesse universo do software livre.
 Espero, de coração, que seja útil para você ou para alguém que conheça.
 Ah, caso queria propor, melhorias no material, ou correções ficarei
 feliz em recebê-las
-“O conhecimento, quando não humaniza, deprava.
+“O conhecimento, quando não humaniza, deprava.</p>
